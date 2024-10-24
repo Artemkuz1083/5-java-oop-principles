@@ -1,0 +1,4 @@
+[DEBUG] 2024.10.25 02:33:03 MyLogger - Debug message
+[INFO] 2024.10.25 02:33:03 MyLogger - Info message
+[WARNING] 2024.10.25 02:33:03 MyLogger - Warning message
+[ERROR] 2024.10.25 02:33:03 MyLogger - Error message
